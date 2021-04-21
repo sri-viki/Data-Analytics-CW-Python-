@@ -4,7 +4,7 @@ This is the code base containing the Jupyter notebooks and datasets used for ECS
 Group Memmbers
 - Sri Vignesh Krishnan
 - Bayar Ibrahim Abdalla
-- Fatima Alabhari
+- Fatima Ibrahim Alharbi
 
 
 The final report is available as a PDF in the repository. 
